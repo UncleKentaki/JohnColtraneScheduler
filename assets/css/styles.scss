@@ -30,8 +30,8 @@ div#wrapper {
 
 h1#title {
         font-weight: 800;
-        text-shadow: -3px 0px 0px #dd96db
-
+        text-shadow: -3px 0px 0px #dd96db;
+        margin-bottom: 30px;
 }
 
 h2 {
@@ -42,4 +42,13 @@ button#submit-button {
         margin-top: 15px;
 }
 
+#train-table th {
+        font-size: 20px;
+   text-align: center;   
+}
 
+label.col-2.col-form-label {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
